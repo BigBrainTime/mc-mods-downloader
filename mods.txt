@@ -1,1 +1,2 @@
-https://legacy.curseforge.com/minecraft/mc-mods/immersive-engineering/download/4535969/file
+https://mediafilez.forgecdn.net/files/4535/969/ImmersiveEngineering-1.19.4-9.4.0-166.jar
+https://mediafilez.forgecdn.net/files/4440/123/appleskin-forge-mc1.19.4-2.4.3.jar
