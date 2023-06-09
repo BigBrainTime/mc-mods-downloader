@@ -18,8 +18,9 @@ if 'mods' not in os.listdir():
 else:
     installed = os.listdir('mods')
 
-if 'forgeinstaller.jar' not in os.listdir():
-    data = requests.get('https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.4-45.1.0/forge-1.19.4-45.1.0-installer.jar').content
+if 'forgeinstaller.jar' not in os.listdir() and mods[0].startswith('--forge--'):
+    data = requests.get(mods[0].replace('--forge--', '')).content
+    mods.pop(0)
 
     with open(f'forgeinstaller.jar', 'wb') as file:
         file.write(data)
@@ -27,17 +28,23 @@ if 'forgeinstaller.jar' not in os.listdir():
     print('forge installed')
 
 else:
+    if mods[0].startswith('--forge--'):
+        mods.pop(0)
     print('forge detected')
 
+client = input('Is this for a client?')
+
 for mod in mods:
-    name = mod.split('/')[6]
-    if name not in installed:
-        data = requests.get(mod).content
+    if (mod.startswith('--server--') and client == False) or (mod.startswith('--client--') and client == True) or (mod.startswith('--server--') == mod.startswith('--client--')):
+        mod = mod.replace('--server--', '').replace('--client--', '')
+        name = mod.split('/')[6]
+        if name not in installed:
+            data = requests.get(mod).content
 
-        with open(f'mods/{name}', 'wb') as file:
-            file.write(data)
+            with open(f'mods/{name}', 'wb') as file:
+                file.write(data)
 
-        print(f'{name} installed')
+            print(f'{name} installed')
 
-    else:
-        print(f'{name} detected')
+        else:
+            print(f'{name} detected')

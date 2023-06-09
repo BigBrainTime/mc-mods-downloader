@@ -1,2 +1,1 @@
-https://mediafilez.forgecdn.net/files/4535/969/ImmersiveEngineering-1.19.4-9.4.0-166.jar
-https://mediafilez.forgecdn.net/files/4440/123/appleskin-forge-mc1.19.4-2.4.3.jar
+--forge--https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-installer.jar
