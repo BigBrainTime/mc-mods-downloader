@@ -32,7 +32,14 @@ else:
         mods.pop(0)
     print('forge detected')
 
-client = input('Is this for a client?')
+client = None
+while client == None:
+    response = input('Is this for a client? (y/n)').lower()
+
+    if response == 'y':
+        client = True
+    elif response == 'n':
+        client = False
 
 for mod in mods:
     if (mod.startswith('--server--') and client == False) or (mod.startswith('--client--') and client == True) or (mod.startswith('--server--') == mod.startswith('--client--')):
