@@ -11,7 +11,6 @@ https://github.com/BigBrainTime/mc-mods-downloader/blob/main/mc_mods/Mekanism-1.
 https://github.com/BigBrainTime/mc-mods-downloader/blob/main/mc_mods/MekanismAdditions-1.19.2-10.3.4.471.jar
 https://github.com/BigBrainTime/mc-mods-downloader/blob/main/mc_mods/MekanismGenerators-1.19.2-10.3.4.471.jar
 https://github.com/BigBrainTime/mc-mods-downloader/blob/main/mc_mods/MekanismTools-1.19.2-10.3.4.471.jar
-https://github.com/BigBrainTime/mc-mods-downloader/blob/main/mc_mods/MouseTweaks-forge-mc1.19-2.23.jar
 https://github.com/BigBrainTime/mc-mods-downloader/blob/main/mc_mods/NaturesCompass-1.19.2-1.9.7-forge.jar
 https://github.com/BigBrainTime/mc-mods-downloader/blob/main/mc_mods/Quark-3.3-371.jar
 https://github.com/BigBrainTime/mc-mods-downloader/blob/main/mc_mods/TerraBlender-forge-1.19.2-2.0.1.127.jar
