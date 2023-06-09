@@ -25,4 +25,5 @@ https://github.com/BigBrainTime/mc-mods-downloader/raw/main/mc_mods/create-1.19.
 https://github.com/BigBrainTime/mc-mods-downloader/raw/main/mc_mods/ironchest-1.19.2-14.2.7.jar
 --client--https://github.com/BigBrainTime/mc-mods-downloader/raw/main/mc_mods/jei-1.19.2-forge-11.3.0.262.jar
 https://github.com/BigBrainTime/mc-mods-downloader/raw/main/mc_mods/waystones-forge-1.19-11.1.0.jar
-https://github.com/BigBrainTime/mc-mods-downloader/raw/main/mc_mods/MouseTweaks-forge-mc1.19-2.23.jar
+--client--https://github.com/BigBrainTime/mc-mods-downloader/raw/main/mc_mods/MouseTweaks-forge-mc1.19-2.23.jar
+--client--https://mediafilez.forgecdn.net/files/4433/884/Jade-1.19.1-forge-8.8.1.jar
