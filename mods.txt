@@ -27,3 +27,8 @@ https://github.com/BigBrainTime/mc-mods-downloader/raw/main/mc_mods/ironchest-1.
 https://github.com/BigBrainTime/mc-mods-downloader/raw/main/mc_mods/waystones-forge-1.19-11.1.0.jar
 --client--https://github.com/BigBrainTime/mc-mods-downloader/raw/main/mc_mods/MouseTweaks-forge-mc1.19-2.23.jar
 --client--https://mediafilez.forgecdn.net/files/4433/884/Jade-1.19.1-forge-8.8.1.jar
+https://mediafilez.forgecdn.net/files/4174/257/domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar
+https://mediafilez.forgecdn.net/files/4454/592/structurize-1.19.2-1.0.491-ALPHA.jar
+https://mediafilez.forgecdn.net/files/4483/50/minecolonies-1.19.2-1.0.1351-RELEASE.jar
+https://mediafilez.forgecdn.net/files/4128/597/multipiston-1.19.2-1.2.21-ALPHA.jar
+https://mediafilez.forgecdn.net/files/4399/22/blockui-1.19-0.0.69-ALPHA.jar
