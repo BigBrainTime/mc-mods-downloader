@@ -32,3 +32,4 @@ https://mediafilez.forgecdn.net/files/4454/592/structurize-1.19.2-1.0.491-ALPHA.
 https://mediafilez.forgecdn.net/files/4483/50/minecolonies-1.19.2-1.0.1351-RELEASE.jar
 https://mediafilez.forgecdn.net/files/4128/597/multipiston-1.19.2-1.2.21-ALPHA.jar
 https://mediafilez.forgecdn.net/files/4399/22/blockui-1.19-0.0.69-ALPHA.jar
+--client--https://optifine.net/downloadx?f=OptiFine_1.19.2_HD_U_I1.jar&x=b5fe76f01e27ccf29025adf0daffdcff
