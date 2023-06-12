@@ -35,3 +35,12 @@ https://mediafilez.forgecdn.net/files/4399/22/blockui-1.19-0.0.69-ALPHA.jar
 https://mediafilez.forgecdn.net/files/4528/186/tombstone-8.2.9-1.19.2.jar
 https://mediafilez.forgecdn.net/files/4068/231/AllTheCompressed-1.19.2-2.0.0.jar
 https://mediafilez.forgecdn.net/files/4544/16/rechiseled-1.0.13-fabric-mc1.19.2.jar
+https://mediafilez.forgecdn.net/files/4119/87/polymorph-forge-0.46.1%2B1.19.2.jar
+https://mediafilez.forgecdn.net/files/4477/626/immersive-portals-2.3.5-mc1.19.2-forge.jar
+https://mediafilez.forgecdn.net/files/3972/423/cloth-config-8.2.88-forge.jar
+https://mediafilez.forgecdn.net/files/3974/155/SoL-Carrot-1.19.2-1.14.0.jar
+https://mediafilez.forgecdn.net/files/4151/747/DungeonsArise-1.19.2-2.1.54-release.jar
+https://mediafilez.forgecdn.net/files/4199/798/soundphysics-forge-1.19.2-1.0.18.jar
+https://mediafilez.forgecdn.net/files/4175/882/ProgressiveBosses-3.7.5-mc1.19.2.jar
+https://mediafilez.forgecdn.net/files/4574/158/voicechat-forge-1.19.2-2.4.9.jar
+https://mediafilez.forgecdn.net/files/4362/859/InsaneLib-1.7.5-mc1.19.2.jar
