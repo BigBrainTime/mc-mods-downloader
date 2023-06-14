@@ -34,7 +34,6 @@ https://mediafilez.forgecdn.net/files/4128/597/multipiston-1.19.2-1.2.21-ALPHA.j
 https://mediafilez.forgecdn.net/files/4399/22/blockui-1.19-0.0.69-ALPHA.jar
 https://mediafilez.forgecdn.net/files/4528/186/tombstone-8.2.9-1.19.2.jar
 https://mediafilez.forgecdn.net/files/4068/231/AllTheCompressed-1.19.2-2.0.0.jar
-https://mediafilez.forgecdn.net/files/4544/16/rechiseled-1.0.13-fabric-mc1.19.2.jar
 https://mediafilez.forgecdn.net/files/4119/87/polymorph-forge-0.46.1%2B1.19.2.jar
 https://mediafilez.forgecdn.net/files/4477/626/immersive-portals-2.3.5-mc1.19.2-forge.jar
 https://mediafilez.forgecdn.net/files/3972/423/cloth-config-8.2.88-forge.jar
@@ -44,3 +43,12 @@ https://mediafilez.forgecdn.net/files/4199/798/soundphysics-forge-1.19.2-1.0.18.
 https://mediafilez.forgecdn.net/files/4175/882/ProgressiveBosses-3.7.5-mc1.19.2.jar
 https://mediafilez.forgecdn.net/files/4574/158/voicechat-forge-1.19.2-2.4.9.jar
 https://mediafilez.forgecdn.net/files/4362/859/InsaneLib-1.7.5-mc1.19.2.jar
+--server--https://mediafilez.forgecdn.net/files/3922/654/smoothchunk-1.19.1-2.0.jar
+--server--https://mediafilez.forgecdn.net/files/4558/387/adaptive_performance_tweaks_core_1.19.2-6.9.1.jar
+--server--https://mediafilez.forgecdn.net/files/4554/943/adaptive_performance_tweaks_spawn_1.19.2-6.9.0.jar
+--server--https://mediafilez.forgecdn.net/files/4521/941/adaptive_performance_tweaks_player_1.19.2-6.8.0.jar
+--server--https://mediafilez.forgecdn.net/files/4521/938/adaptive_performance_tweaks_items_1.19.2-6.8.0.jar
+--server--https://mediafilez.forgecdn.net/files/4521/937/adaptive_performance_tweaks_gamerules_1.19.2-6.8.0.jar
+https://mediafilez.forgecdn.net/files/4498/523/rechiseled-1.0.13-forge-mc1.19.jar
+https://mediafilez.forgecdn.net/files/4548/462/supermartijn642corelib-1.1.9a-forge-mc1.19.2.jar
+https://mediafilez.forgecdn.net/files/3871/792/supermartijn642configlib-1.1.6b-forge-mc1.19.jar
