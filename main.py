@@ -127,7 +127,8 @@ if GUI:
         if mod.startswith('--server--'):
             mods.remove(mod)
 
-        mods[mods.index(mod)] = mod.replace('--client--', '')
+        else:
+            mods[mods.index(mod)] = mod.replace('--client--', '')
 
     link_names = []
     for mod in sorted(mods):
