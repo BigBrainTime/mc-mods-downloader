@@ -52,3 +52,4 @@ https://mediafilez.forgecdn.net/files/4362/859/InsaneLib-1.7.5-mc1.19.2.jar
 https://mediafilez.forgecdn.net/files/4498/523/rechiseled-1.0.13-forge-mc1.19.jar
 https://mediafilez.forgecdn.net/files/4548/462/supermartijn642corelib-1.1.9a-forge-mc1.19.2.jar
 https://mediafilez.forgecdn.net/files/3871/792/supermartijn642configlib-1.1.6b-forge-mc1.19.jar
+--server--https://mediafilez.forgecdn.net/files/3908/725/dcintegration-forge-2.4.6-1.19.1.jar

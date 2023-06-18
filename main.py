@@ -123,22 +123,26 @@ if GUI:
     generate_canvas('all')
 
     rows_all = 1
+    removal = []
     for mod in mods:
         if mod.startswith('--server--'):
-            mods.remove(mod)
+            removal.append(mod)
 
         else:
             mods[mods.index(mod)] = mod.replace('--client--', '')
 
+    for mod in removal:
+        mods.remove(mod)
+
     link_names = []
-    for mod in sorted(mods):
-        names = mod.split('/')
+    for mod in mods:
+        names = mod.split('/')[3:]
         for entry in names:
             if '.jar' in entry:
-                name = entry
-                link_names.append(name)
+                link_names.append(entry)
                 break
 
+    for name in sorted(link_names):
         globals()[f'{name}_all_label'] = tk.Label(all_frame, text=name, justify=tk.LEFT).grid(row=rows_all, column=0, sticky=tk.W)
         rows_all += 1
 
